@@ -1,3 +1,3 @@
-module go_with_tests
+module example.com/hello
 
 go 1.24
